@@ -2,7 +2,7 @@
 
 ## Overview
 CalcSaurav is a MATLAB-based calculator app designed to perform a variety of arithmetic and bitwise operations. This app allows users to input two numbers and select an operation from the provided options, including addition, subtraction, multiplication, division, exponentiation, bitwise AND, bitwise OR, bitwise XOR, and equality comparison. The result is displayed in the output panel.<br>
-![Calculator](/Calc-ui.png)
+![Calculator](/calc-ui.png)
 ## Features
 ### Arithmetic Operations:
 
@@ -20,19 +20,19 @@ CalcSaurav is a MATLAB-based calculator app designed to perform a variety of ari
 
 - Equality (==): Compares two numbers for equality and displays the result in binary.
 ## How to Run the App
-### Clone the Repository:
-### Open MATLAB:
+- Clone the Repository.
+- Open MATLAB.
 
-### Launch MATLAB on your system.
-### Run the App:
+- Launch MATLAB on your system.
+- Run the App:
 
-### Open the calcsaurav.m file in MATLAB.
-### Click the "Run" button or type calcsaurav in the command window.
+- Open the calcsaurav.m file in MATLAB.
+- Click the "Run" button or type calcsaurav in the command window.
 ## Using the App:
 
-- Inputs: Enter the first and second numbers in the respective text areas.
-- Select Operation: Click on the button corresponding to the desired operation.
-- View Result: The result will be displayed in the output panel.
+- <b>Inputs:</b> Enter the first and second numbers in the respective text areas.
+- <b>Select Operation:</b> Click on the button corresponding to the desired operation.
+- <b>View Result:</b> The result will be displayed in the output panel.
 ## Requirements
 ### MATLAB (version R2019b or later)
 ## Contributing
